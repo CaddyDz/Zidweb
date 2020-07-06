@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title','About')
+
 @section('content')
 
 <body class="further about">
@@ -227,7 +229,6 @@
         @include('partials.latest_works', ['id' => 'portfolio'])
         <div id="map"></div>
 
-        @include('layouts.footer')
     </div><!-- end #site-content -->
 
     <!-- TOOLS/UTILITIES -->
@@ -305,4 +306,3 @@
     </script>
     <script src="assets/js/google-map.js"></script>
 </body>
-@endsection

@@ -9,7 +9,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title>Sitando - Acceuil</title>
+	<title>Sitando | @yield('title')</title>
 	<meta name="description" content="Home.">
 	<meta name="viewport" content="width=device-width, initial-scale=0.85">
 	<meta name="HandheldFriendly" content="True">
@@ -32,6 +32,8 @@
 	<!-- Modernizr -->
 	<script src="assets/js/modernizr.min.js"></script>
 </head>
+@include('layouts.header')
 @yield('content')
+@include('layouts.footer')
 
 </html>

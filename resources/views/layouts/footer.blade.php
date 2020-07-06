@@ -7,11 +7,11 @@
 				<!-- Logo -->
 				<div class="logo">
 					<!-- image logo -->
-					<a href="/index" class="image-logo">
-						<img src="assets/images/logo.png" alt="Sitando" />
+					<a href="/"> Sitando
+
 					</a>
 					<!-- HTML logo -->
-					<a href="/index" class="html-logo"></i> Sitando</a>
+					<a href="/" class="html-logo"></i> Sitando</a>
 				</div>
 				<p>Commencez votre nouveau projet avec une nouvelle approche. Sitando est vraiment à la
 					pointe en termes
@@ -42,23 +42,21 @@
 					</div>
 				</form>
 				<div class="social-icons">
-					<a href="#" class="icon tooltip" data-tip="Dribbble">
-						<i class="fa fa-dribbble"></i>
+					<a href="#" target="_blanc" class="icon tooltip" data-tip="Youtube">
+						<i class="fa fa-youtube"></i>
 					</a>
-					<a href="#" class="icon tooltip" data-tip="Facebook">
+					<a href="https://web.facebook.com/Sitando-111747180600875" target="_blank" class="icon tooltip"
+						data-tip="Facebook">
 						<i class="fa fa-facebook"></i>
 					</a>
-					<a href="#" class="icon tooltip" data-tip="Twitter">
+					<a href="#" target="_blank" target="_blank" class="icon tooltip" data-tip="Twitter">
 						<i class="fa fa-twitter"></i>
 					</a>
-					<a href="#" class="icon tooltip" data-tip="LinkedIn">
+					<a href="#" target="_blank" class="icon tooltip" data-tip="Instagram">
+						<i class="fa fa-instagram"></i>
+					</a>
+					<a href="#" target="_blank" class="icon tooltip" data-tip="LinkedIn">
 						<i class="fa fa-linkedin"></i>
-					</a>
-					<a href="#" class="icon tooltip" data-tip="DeviantArt">
-						<i class="fa fa-deviantart"></i>
-					</a>
-					<a href="#" class="icon tooltip" data-tip="Behance">
-						<i class="fa fa-behance"></i>
 					</a>
 				</div>
 			</div>
