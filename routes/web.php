@@ -13,6 +13,6 @@
 
 Route::view('/', 'index');
 Route::view('/contact', 'contact');
-Route::view('/prtfolio', 'portfolio');
+Route::view('/portfolio', 'portfolio');
 Route::view('/services', 'services');
 Route::view('/about', 'about');

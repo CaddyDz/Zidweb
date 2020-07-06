@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', __('Home'))
+
 @section('content')
 
 <body class="index parallax-title">
@@ -209,7 +211,7 @@
         </section>
 
 
-        @include('layouts.footer')
+
     </div><!-- end #site-content -->
 
     <!-- TOOLS/UTILITIES -->
