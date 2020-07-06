@@ -9,7 +9,6 @@
 				<a href="/" class="image-logo" style="display: inline;">
 					Sitando
 				</a>
-
 				<!-- HTML logo -->
 				<a href="/" class="html-logo">Sitando</a>
 			</div>
@@ -18,14 +17,14 @@
 				<ul>
 					<li @if(request()->getPathInfo() === '/') class="active" @endif><a href="/">Home</a></li>
 					<li @if(request()->getPathInfo() === '/about') class="active" @endif><a href="/about">À propos</a></li>
-					<li @if(request()->getPathInfo() === '/services') class="active" @endif><a href="/services">Services</a></li>
-					<li @if(request()->getPathInfo() === '/portfolio') class="active" @endif><a href="/portfolio">Portfolio</a>
+					{{-- <li @if(request()->getPathInfo() === '/services') class="active" @endif><a href="/services">Services</a></li> --}}
+					{{-- <li @if(request()->getPathInfo() === '/portfolio') class="active" @endif><a href="/portfolio">Portfolio</a> --}}
 					</li>
 					<li @if(request()->getPathInfo() === '/contact') class="active" @endif><a href="/contact">Contact</a></li>
 				</ul>
-				<div class="icon-round-lrg-plain search-toggle">
+				{{-- <div class="icon-round-lrg-plain search-toggle">
 					<i class="fa fa-search"></i>
-				</div>
+				</div> --}}
 			</nav>
 		</div>
 	</div>
