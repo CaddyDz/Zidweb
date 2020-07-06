@@ -165,7 +165,7 @@
 								À propos
 							</a>
 						</li>
-						<li>
+						{{-- <li>
 							<a href="/services">
 								Services
 							</a>
@@ -174,7 +174,7 @@
 							<a href="/portfolio">
 								Portfolio
 							</a>
-						</li>
+						</li> --}}
 						<li>
 
 							</a>
