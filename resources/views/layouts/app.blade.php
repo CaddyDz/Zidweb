@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--[if IE 8]>     <html class="ie ie8 lte9 lte8"> <![endif]-->
-<!--[if IE 9]>     <html class="ie ie9 lte9"> <![endif]-->
-<!--[if gt IE 9]>  <html> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]> <html> <![endif]-->
 <!--[if !IE]><!-->
 <html>
 <!--<![endif]-->
@@ -10,7 +10,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Sitando | @yield('title')</title>
-	<meta name="description" content="Home.">
+	<meta name="description" content="Web development agency">
 	<meta name="viewport" content="width=device-width, initial-scale=0.85">
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
