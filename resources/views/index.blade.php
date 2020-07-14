@@ -124,7 +124,7 @@
 			<div class="testimonial">
 				<div class="profile">
 					<a href="assets/images/stock12.jpg" class="modal-image">
-						<img src="assets/images/stock12.jpg" alt="" />
+						<img src="/assets/images/stock12.jpg" alt="" />
 					</a>
 				</div>
 				<blockquote>
@@ -136,7 +136,7 @@
 			<div class="testimonial">
 				<div class="profile">
 					<a href="assets/images/stock15.jpg" class="modal-image">
-						<img src="assets/images/stock15.jpg" alt="" />
+						<img src="/assets/images/stock15.jpg" alt="" />
 					</a>
 				</div>
 				<blockquote>
@@ -148,7 +148,7 @@
 			<div class="testimonial">
 				<div class="profile">
 					<a href="assets/images/stock8.jpg" class="modal-image">
-						<img src="assets/images/stock8.jpg" alt="" />
+						<img src="/assets/images/stock8.jpg" alt="" />
 					</a>
 				</div>
 				<blockquote>

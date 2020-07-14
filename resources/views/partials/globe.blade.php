@@ -71,7 +71,7 @@
 			</header>
 		</div>
 		<div class="earth">
-			<img src="assets/images/earth.png" alt="" />
+			<img src="/assets/images/earth.png" alt="" />
 			<div class="pins">
 				<div class="pin-wrapper active">
 					<div class='pin'></div>

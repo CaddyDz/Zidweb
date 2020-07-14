@@ -47,7 +47,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock7.jpg" alt="" />
+                            <img src="/assets/images/stock7.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -60,7 +60,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock16.jpg" alt="" />
+                            <img src="/assets/images/stock16.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -73,7 +73,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock10.jpg" alt="" />
+                            <img src="/assets/images/stock10.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -86,7 +86,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock6.jpg" alt="" />
+                            <img src="/assets/images/stock6.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -99,7 +99,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock11.jpg" alt="" />
+                            <img src="/assets/images/stock11.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -112,7 +112,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock4.jpg" alt="" />
+                            <img src="/assets/images/stock4.jpg" alt="" />
                         </div>
                     </div>
                     <div class="portfolio-items">
@@ -127,7 +127,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock4.jpg" alt="" />
+                            <img src="/assets/images/stock4.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -140,7 +140,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock11.jpg" alt="" />
+                            <img src="/assets/images/stock11.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -153,7 +153,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock10.jpg" alt="" />
+                            <img src="/assets/images/stock10.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -166,7 +166,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock7.jpg" alt="" />
+                            <img src="/assets/images/stock7.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -179,7 +179,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock7.jpg" alt="" />
+                            <img src="/assets/images/stock7.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -192,7 +192,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock6.jpg" alt="" />
+                            <img src="/assets/images/stock6.jpg" alt="" />
                         </div>
                     </div>
                     <div class="portfolio-items">
@@ -207,7 +207,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock11.jpg" alt="" />
+                            <img src="/assets/images/stock11.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -220,7 +220,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock16.jpg" alt="" />
+                            <img src="/assets/images/stock16.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -233,7 +233,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock4.jpg" alt="" />
+                            <img src="/assets/images/stock4.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -246,7 +246,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock6.jpg" alt="" />
+                            <img src="/assets/images/stock6.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -259,7 +259,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock7.jpg" alt="" />
+                            <img src="/assets/images/stock7.jpg" alt="" />
                         </div>
                         <div class="portfolio-item">
                             <div class="controls">
@@ -272,7 +272,7 @@
                             </div>
                             <h4><a>Lorem Ipsum</a></h4>
                             <p>Cras dictum erat id tortor ornare.</p>
-                            <img src="assets/images/stock10.jpg" alt="" />
+                            <img src="/assets/images/stock10.jpg" alt="" />
                         </div>
                     </div>
                 </div>

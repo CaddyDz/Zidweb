@@ -28,7 +28,7 @@
 		</header>
 		<div class="wcu-content">
 			<div class="wcu-graphic">
-				<img src="assets/images/desktop.png" alt="" />
+				<img src="/assets/images/desktop.png" alt="" />
 			</div>
 			<div class="wcu-features">
 				<div class="widget wcu-feature wcu-left">
@@ -102,7 +102,7 @@
 							<i class="fa fa-search"></i>
 						</a>
 					</div>
-					<img src="assets/images/stock8.jpg" alt="" />
+					<img src="/assets/images/stock8.jpg" alt="" />
 				</div>
 				<h4>Djerbouh Salim</h4>
 				<h5>Web Developer</h5>
@@ -135,7 +135,7 @@
 							<i class="fa fa-search"></i>
 						</a>
 					</div>
-					<img src="assets/images/stock15.jpg" alt="" />
+					<img src="/assets/images/stock15.jpg" alt="" />
 				</div>
 				<h4>Sadoudi Mohamed Anis</h4>
 				<h5>Web Designer</h5>
@@ -165,7 +165,7 @@
 							<i class="fa fa-search"></i>
 						</a>
 					</div>
-					<img src="assets/images/stock12.jpg" alt="" />
+					<img src="/assets/images/stock12.jpg" alt="" />
 				</div>
 				<h4>Aissi Riad</h4>
 				<h5>Manager</h5>

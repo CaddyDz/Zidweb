@@ -139,7 +139,7 @@
                     <div class="testimonial">
                         <div class="profile">
                             <a href="assets/images/stock12.jpg" class="modal-image">
-                                <img src="assets/images/stock12.jpg" alt="" />
+                                <img src="/assets/images/stock12.jpg" alt="" />
                             </a>
                         </div>
                         <blockquote>
@@ -151,7 +151,7 @@
                     <div class="testimonial">
                         <div class="profile">
                             <a href="assets/images/stock15.jpg" class="modal-image">
-                                <img src="assets/images/stock15.jpg" alt="" />
+                                <img src="/assets/images/stock15.jpg" alt="" />
                             </a>
                         </div>
                         <blockquote>
@@ -163,7 +163,7 @@
                     <div class="testimonial">
                         <div class="profile">
                             <a href="assets/images/stock8.jpg" class="modal-image">
-                                <img src="assets/images/stock8.jpg" alt="" />
+                                <img src="/assets/images/stock8.jpg" alt="" />
                             </a>
                         </div>
                         <blockquote>
@@ -204,7 +204,7 @@
                         </div>
                         <h4><a>Lorem Ipsum</a></h4>
                         <p>Cras dictum erat id tortor ornare.</p>
-                        <img src="assets/images/stock7.jpg" alt="" />
+                        <img src="/assets/images/stock7.jpg" alt="" />
                     </div>
                     <div class="portfolio-item">
                         <div class="controls">
@@ -217,7 +217,7 @@
                         </div>
                         <h4><a>Cras Facilisis</a></h4>
                         <p>Cras dictum erat id tortor ornare.</p>
-                        <img src="assets/images/stock16.jpg" alt="" />
+                        <img src="/assets/images/stock16.jpg" alt="" />
                     </div>
                     <div class="portfolio-item">
                         <div class="controls">
@@ -230,7 +230,7 @@
                         </div>
                         <h4><a>Turpis Tristique</a></h4>
                         <p>Cras dictum erat id tortor ornare.</p>
-                        <img src="assets/images/stock10.jpg" alt="" />
+                        <img src="/assets/images/stock10.jpg" alt="" />
                     </div>
                     <div class="portfolio-item max-bp2">
                         <div class="controls">
@@ -243,7 +243,7 @@
                         </div>
                         <h4><a>Lorem Ipsum</a></h4>
                         <p>Cras dictum erat id tortor ornare.</p>
-                        <img src="assets/images/stock6.jpg" alt="" />
+                        <img src="/assets/images/stock6.jpg" alt="" />
                     </div>
                 </div>
             </div>

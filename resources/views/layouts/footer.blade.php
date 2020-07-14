@@ -67,7 +67,7 @@
 					<div class="twitter-article">
 						<div class="twitter-pic">
 							<a href="assets/images/twitter-pic.jpg" class="modal-image">
-								<img width="50" height="50" src="assets/images/twitter-pic.jpg" alt="">
+								<img width="50" height="50" src="/assets/images/twitter-pic.jpg" alt="">
 							</a>
 							<div class="tweet-time"><a href="#">23 Sep</a></div>
 						</div>
@@ -81,7 +81,7 @@
 					<div class="twitter-article">
 						<div class="twitter-pic">
 							<a href="assets/images/twitter-pic.jpg" class="modal-image">
-								<img width="50" height="50" src="assets/images/twitter-pic.jpg" alt="">
+								<img width="50" height="50" src="/assets/images/twitter-pic.jpg" alt="">
 							</a>
 							<div class="tweet-time"><a href="#">23 Sep</a></div>
 						</div>
@@ -105,7 +105,7 @@
 						<div class="cf">
 							<span class="profile">
 								<a href="assets/images/stock12.jpg" class="modal-image thumb">
-									<img src="assets/images/stock12.jpg" alt="" />
+									<img src="/assets/images/stock12.jpg" alt="" />
 								</a>
 							</span>
 							<cite>
@@ -121,7 +121,7 @@
 						<div class="cf">
 							<span class="profile">
 								<a href="assets/images/stock8.jpg" class="modal-image thumb">
-									<img src="assets/images/stock8.jpg" alt="" />
+									<img src="/assets/images/stock8.jpg" alt="" />
 								</a>
 							</span>
 							<cite>
@@ -137,7 +137,7 @@
 						<div class="cf">
 							<span class="profile">
 								<a href="assets/images/stock15.jpg" class="modal-image thumb">
-									<img src="assets/images/stock15.jpg" alt="" />
+									<img src="/assets/images/stock15.jpg" alt="" />
 								</a>
 							</span>
 							<cite>
