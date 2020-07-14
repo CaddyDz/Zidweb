@@ -19,8 +19,8 @@
 	<link rel="apple-touch-icon" href="/assets/images/apple-icon-touch.png">
 	<link rel="icon" href="/assets/images/favicon.png">
 	<!--[if IE]>
-        <link rel="shortcut icon" href="/assets/images/favicon.ico">
-    <![endif]-->
+		<link rel="shortcut icon" href="/assets/images/favicon.ico">
+	<![endif]-->
 
 	<!-- Stylesheet -->
 	<link rel="stylesheet" href="/assets/styles/css/app.css">
