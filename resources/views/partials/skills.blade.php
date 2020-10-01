@@ -18,15 +18,15 @@
 			<div class="span-6 progress-bars">
 				<h5>HTML5</h5>
 				<div class="progress-bar">
-					<div class="progress" data-progress="75%">75%</div>
+					<div class="progress" data-progress="97%">97%</div>
 				</div>
 				<h5>CSS3</h5>
 				<div class="progress-bar">
-					<div class="progress" data-progress="70%">70%</div>
+					<div class="progress" data-progress="96%">96%</div>
 				</div>
 				<h5>Laravel</h5>
 				<div class="progress-bar">
-					<div class="progress" data-progress="80%">80%</div>
+					<div class="progress" data-progress="100%">100%</div>
 				</div>
 				<h5>VueJS</h5>
 				<div class="progress-bar">

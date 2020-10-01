@@ -17,8 +17,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Lorem Ipsum</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Sites Internet</a></h4>
+				<p>Vivez une expérience unique...</p>
 				<img src="/assets/images/stock7.jpg" alt="" />
 			</div>
 			<div class="portfolio-item">
@@ -30,8 +30,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Cras Facilisis</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Equipe Professionelle</a></h4>
+				<p>Nous mettons le monde entre vos mains...</p>
 				<img src="/assets/images/stock16.jpg" alt="" />
 			</div>
 			<div class="portfolio-item">
@@ -43,8 +43,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Turpis Tristique</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Planification et Design</a></h4>
+				<p>On fait parler les images...</p>
 				<img src="/assets/images/stock10.jpg" alt="" />
 			</div>
 			<div class="portfolio-item">
@@ -56,8 +56,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Cras Facilisis</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Applications Mobiles</a></h4>
+				<p>Applications pour tous les appareils!</p>
 				<img src="/assets/images/stock6.jpg" alt="" />
 			</div>
 			<div class="portfolio-item">
@@ -69,8 +69,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Suspendisse Tempus</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Marketing et Publicité</a></h4>
+				<p>Je reçois une publicité réussie...</p>
 				<img src="/assets/images/stock11.jpg" alt="" />
 			</div>
 			<div class="portfolio-item">
@@ -82,8 +82,8 @@
 						<i class="fa fa-search"></i>
 					</a>
 				</div>
-				<h4><a>Lorem Ipsum</a></h4>
-				<p>Cras dictum erat id tortor ornare.</p>
+				<h4><a>Monde des Réseaux Sociaux</a></h4>
+				<p>Nous vous rendons célèbre...</p>
 				<img src="/assets/images/stock4.jpg" alt="" />
 			</div>
 		</div>

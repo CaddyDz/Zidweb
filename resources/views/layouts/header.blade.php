@@ -15,7 +15,7 @@
 			<!-- Main-Nav -->
 			<nav class="main-nav">
 				<ul>
-					<li @if(request()->getPathInfo() === '/') class="active" @endif><a href="/">Home</a></li>
+					<li @if(request()->getPathInfo() === '/') class="active" @endif><a href="/">Accueil</a></li>
 					<li @if(request()->getPathInfo() === '/about') class="active" @endif><a href="/about">À propos</a></li>
 					{{-- <li @if(request()->getPathInfo() === '/services') class="active" @endif><a href="/services">Services</a></li> --}}
 					{{-- <li @if(request()->getPathInfo() === '/portfolio') class="active" @endif><a href="/portfolio">Portfolio</a> --}}

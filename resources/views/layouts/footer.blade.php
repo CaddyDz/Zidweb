@@ -29,12 +29,12 @@
 				</ul>
 			</div>
 			<div class="span-3 footer-col">
-				<h3>Newsletter</h3>
-				<h4>Sign up to our mailing list</h4>
-				<p>Suspendisse tempus sodales neque, eget eleifend turpis tristique eu.</p>
+				<h3>Bulletins</h3>
+				<h4>Inscrivez-vous à notre liste de diffusion</h4>
+				<p>Abonnez-vous maintenant! Recevez de nouvelles nouvelles et offres.</p>
 				<form class="newsletter h5-valid">
 					<div class="form-element">
-						<input type="email" class="box" required="" placeholder="Enter your email address" />
+						<input type="email" class="box" required="" placeholder="Entrez votre adresse email" />
 						<label>Email Address</label>
 						<button type="submit">
 							<i class="fa fa-check"></i>
@@ -61,8 +61,8 @@
 				</div>
 			</div>
 			<div class="span-3 footer-col">
-				<h3><i class="fa fa-twitter"></i> Twitter Feed</h3>
-				<h4>View our latest tweets</h4>
+				<h3><i class="fa fa-twitter"></i> Fil Twitter</h3>
+				<h4>Consultez nos derniers tweets</h4>
 				<div id="twitter-feed">
 					<div class="twitter-article">
 						<div class="twitter-pic">
@@ -95,8 +95,8 @@
 				</div>
 			</div>
 			<div class="span-3 footer-col">
-				<h3>Testimonials</h3>
-				<h4>See what our clients say</h4>
+				<h3>Témoignages</h3>
+				<h4>Voyez ce que disent nos clients</h4>
 				<div class="owl-carousel footer-testimonials">
 					<div class="testimonial">
 						<blockquote>
@@ -155,7 +155,7 @@
 			<div class="footer-wrapper">
 				<!-- Copyright Section -->
 				<div class="copyright" id="copyright">
-					© Sitando {{ date('Y') }}
+					© Sitando {{ date('Y') }}. Tous les droits sont réservés. 
 				</div>
 				<!-- Footer Navigation -->
 				<nav class="footer-nav">
