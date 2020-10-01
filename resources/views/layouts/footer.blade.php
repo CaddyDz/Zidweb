@@ -52,7 +52,7 @@
 				<h4>Consultez nos derniers tweets</h4>
 				<div id="twitter-feed">
 					<div class="twitter-article">
-					<a class="twitter-timeline" data-width="300" data-height="300" data-theme="dark" href="https://twitter.com/SitandoHQ?ref_src=twsrc%5Etfw">Tweets by SitandoHQ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					<a class="twitter-timeline" data-width="264" data-height="400" data-theme="dark" href="https://twitter.com/SitandoHQ?ref_src=twsrc%5Etfw">Tweets by SitandoHQ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</div>
 				</div>
 			</div>
