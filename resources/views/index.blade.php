@@ -110,7 +110,6 @@
 		</blockquote>
 	</div>
 </section>
-@include('partials.clients')
 @include('partials.latest_works', ['id' => 's-latest-works'])
 <section class="section secondary testimonials">
 	<div class="container">
