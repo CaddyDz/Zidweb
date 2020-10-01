@@ -74,7 +74,7 @@
 
 	<!-- Main Search -->
 	<div class="main-search" id="search">
-		<input type="search" name="s" placeholder="Enter your query...">
+		<input type="search" name="s" placeholder="Entrez votre requête...">
 		<button type="submit"><i class="fa fa-search"></i></button>
 		<div class="button brand-1 search-close"><i class="fa fa-times"></i></div>
 	</div>

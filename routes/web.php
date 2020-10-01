@@ -14,3 +14,6 @@
 Route::view('/', 'index');
 Route::view('/contact', 'contact');
 Route::view('/about', 'about');
+
+Route::get('contact-us','ContactUsController@index');
+Route::post('contact-us','ContactUsController@handleForm');
