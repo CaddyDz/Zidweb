@@ -1,5 +1,4 @@
 <!-- Footer -->
-
 <footer class="app-footer">
 	<div class="container footer-content">
 		<div class="row">
@@ -7,9 +6,7 @@
 				<!-- Logo -->
 				<div class="logo">
 					<!-- image logo -->
-					<a href="/"> Sitando
-
-					</a>
+					<a href="/"> Sitando</a>
 					<!-- HTML logo -->
 					<a href="/" class="html-logo"></i> Sitando</a>
 				</div>
@@ -22,8 +19,7 @@
 					<li><b><i class="fa fa-globe"></i> Adresse:</b> (El Mohammadia Mall), 4e étage bureau
 						1163,Alger</li>
 					<b><i class="fa fa-phone-square"></i>
-						Téléphone:</b> <a href="tel:+213553752641">(213) 553 752
-						641</a><br><a href="tel:+213666373152">(213) 553 752 641</a>
+						Téléphone:</b> <a href="tel:+213553752641">(213) 553 752 641</a>
 					<li><b><i class="fa fa-envelope"></i> Email:</b> <a href="mailto:contact@sitando.com">contact@sitando.com</a>
 					</li>
 				</ul>
@@ -42,21 +38,12 @@
 					</div>
 				</form>
 				<div class="social-icons">
-					<a href="#" target="_blanc" class="icon tooltip" data-tip="Youtube">
-						<i class="fa fa-youtube"></i>
-					</a>
-					<a href="https://web.facebook.com/Sitando-111747180600875" target="_blank" class="icon tooltip"
+					<a href="https://facebook.com/Sitando-111747180600875" target="_blank" class="icon tooltip"
 						data-tip="Facebook">
 						<i class="fa fa-facebook"></i>
 					</a>
-					<a href="#" target="_blank" target="_blank" class="icon tooltip" data-tip="Twitter">
+					<a href="https://twitter.com/SitandoHQ" target="_blank" target="_blank" class="icon tooltip" data-tip="Twitter">
 						<i class="fa fa-twitter"></i>
-					</a>
-					<a href="#" target="_blank" class="icon tooltip" data-tip="Instagram">
-						<i class="fa fa-instagram"></i>
-					</a>
-					<a href="#" target="_blank" class="icon tooltip" data-tip="LinkedIn">
-						<i class="fa fa-linkedin"></i>
 					</a>
 				</div>
 			</div>
@@ -94,60 +81,6 @@
 					</div>
 				</div>
 			</div>
-			<div class="span-3 footer-col">
-				<h3>Témoignages</h3>
-				<h4>Voyez ce que disent nos clients</h4>
-				<div class="owl-carousel footer-testimonials">
-					<div class="testimonial">
-						<blockquote>
-							<p>Aenean lobortis ante nunc. Integer justo ex. Curabitur at enim ac nisi...</p>
-						</blockquote>
-						<div class="cf">
-							<span class="profile">
-								<a href="assets/images/stock12.jpg" class="modal-image thumb">
-									<img src="/assets/images/stock12.jpg" alt="" />
-								</a>
-							</span>
-							<cite>
-								<strong>Sam Tho</strong>
-								<i>Theme Forest</i>
-							</cite>
-						</div>
-					</div>
-					<div class="testimonial">
-						<blockquote>
-							<p>Aenean lobortis ante nunc. Integer justo ex. Curabitur at enim ac nisi...</p>
-						</blockquote>
-						<div class="cf">
-							<span class="profile">
-								<a href="assets/images/stock8.jpg" class="modal-image thumb">
-									<img src="/assets/images/stock8.jpg" alt="" />
-								</a>
-							</span>
-							<cite>
-								<strong>John Doe</strong>
-								<i>Theme Forest</i>
-							</cite>
-						</div>
-					</div>
-					<div class="testimonial">
-						<blockquote>
-							<p>Aenean lobortis ante nunc. Integer justo ex. Curabitur at enim ac nisi...</p>
-						</blockquote>
-						<div class="cf">
-							<span class="profile">
-								<a href="assets/images/stock15.jpg" class="modal-image thumb">
-									<img src="/assets/images/stock15.jpg" alt="" />
-								</a>
-							</span>
-							<cite>
-								<strong>Jane Dough</strong>
-								<i>Theme Forest</i>
-							</cite>
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 	<div class="bottom-bar">
@@ -155,7 +88,7 @@
 			<div class="footer-wrapper">
 				<!-- Copyright Section -->
 				<div class="copyright" id="copyright">
-					© Sitando {{ date('Y') }}. Tous les droits sont réservés. 
+					© Sitando {{ date('Y') }}. Tous les droits sont réservés.
 				</div>
 				<!-- Footer Navigation -->
 				<nav class="footer-nav">
@@ -163,20 +96,6 @@
 						<li>
 							<a href="/about">
 								À propos
-							</a>
-						</li>
-						{{-- <li>
-							<a href="/services">
-								Services
-							</a>
-						</li>
-						<li>
-							<a href="/portfolio">
-								Portfolio
-							</a>
-						</li> --}}
-						<li>
-
 							</a>
 						</li>
 						<li>
