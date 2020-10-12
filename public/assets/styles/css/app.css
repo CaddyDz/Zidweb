@@ -5251,7 +5251,7 @@ body.fh-visible .main-search [type="submit"] {
     position: fixed;
     cursor: pointer;
     -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
+    backface-visibility: visible;
 }
 
 .nav-trigger:hover {
