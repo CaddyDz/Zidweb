@@ -52,32 +52,7 @@
 				<h4>Consultez nos derniers tweets</h4>
 				<div id="twitter-feed">
 					<div class="twitter-article">
-						<div class="twitter-pic">
-							<a href="assets/images/twitter-pic.jpg" class="modal-image">
-								<img width="50" height="50" src="/assets/images/twitter-pic.jpg" alt="">
-							</a>
-							<div class="tweet-time"><a href="#">23 Sep</a></div>
-						</div>
-						<div class="twitter-text">
-							<div class="tweetprofilelink">
-								<strong><a href="#">Theme Forest</a></strong> <a href="#">@themeforest</a>
-							</div>
-							<p>Suspendisse tempus neque, eget eleifend turpis tristique eu.</p>
-						</div>
-					</div>
-					<div class="twitter-article">
-						<div class="twitter-pic">
-							<a href="assets/images/twitter-pic.jpg" class="modal-image">
-								<img width="50" height="50" src="/assets/images/twitter-pic.jpg" alt="">
-							</a>
-							<div class="tweet-time"><a href="#">23 Sep</a></div>
-						</div>
-						<div class="twitter-text">
-							<div class="tweetprofilelink">
-								<strong><a href="#">Theme Forest</a></strong> <a href="#">@themeforest</a>
-							</div>
-							<p>Suspendisse tempus neque, eget eleifend turpis tristique eu.</p>
-						</div>
+					<a class="twitter-timeline" data-width="264" data-height="400" data-theme="dark" href="https://twitter.com/SitandoHQ?ref_src=twsrc%5Etfw">Tweets by SitandoHQ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</div>
 				</div>
 			</div>

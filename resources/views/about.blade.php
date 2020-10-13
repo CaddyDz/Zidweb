@@ -16,6 +16,16 @@
 <!-- Main Content -->
 @include('partials.globe')
 @include('partials.skills')
+<section class="section banner alt">
+	<div class="container">
+		<div class="content">
+			<h4>Commencez votre nouveau <b>projet</b> avec une <i>nouvelle</i> approche.</h4>
+			<p>contactez-nous pour laisser à vos visiteurs une expérience inoubliable.
+				<div class="meta">
+					<a href="/contact" >Notre contact</a>
+		</div>
+	</div>
+</section>
 <section class="section primary why-choose-us section-map inactive" id="s-why-choose-us">
 	<div class="container">
 		<header class="sep active">
@@ -72,16 +82,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-</section>
-<section class="section banner alt">
-	<div class="container">
-		<div class="content">
-			<h4>Commencez votre nouveau <b>projet</b> avec une <i>nouvelle</i> approche.</h4>
-			<p>contactez-nous pour laisser à vos visiteurs une expérience inoubliable.
-				<div class="meta">
-					<a href="/contact" >Notre contact</a>
 		</div>
 	</div>
 </section>

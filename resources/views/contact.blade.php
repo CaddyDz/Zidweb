@@ -91,13 +91,13 @@
 
 	<!-- Control Panel Nav Trigger -->
 	<div class="icon-lrg nav-trigger cp-trigger" id="cp-trigger">
-		<i class="fa fa-bars"></i>
-	</div>
+        <i class="fa fa-bars"></i>
+    </div>
 
 	<!-- Flyout Nav Trigger -->
-	<span class="icon-lrg nav-trigger flyout-trigger" id="flyout-trigger">
-		<i class="fa fa-bars"></i>
-	</span>
+    <span class="icon-lrg nav-trigger flyout-trigger" id="flyout-trigger">
+        <i class="fa fa-bars"></i>
+    </span>
 
 	<!-- Control Panel Nav -->
 	<nav class="cp-nav-container" id="cp-nav"></nav>
