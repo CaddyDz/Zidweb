@@ -80,7 +80,7 @@
 	</div>
 	<!-- SCRIPTS -->
 	<!-- jQuery -->
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
+	{{-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> --}}
 	<script src="/assets/js/jquery.min.js"></script>
 
 	<!-- LivIcons -->
