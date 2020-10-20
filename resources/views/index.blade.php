@@ -9,7 +9,7 @@
 @include('partials.hero')
 <!-- Main Content -->
 @include('partials.globe')
-
+@include('partials.skills')
 <section class="section services primary section-map inactive" id="s-services">
 	<div class="container">
 		<header class="sep active">

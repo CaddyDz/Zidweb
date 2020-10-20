@@ -10,7 +10,16 @@
 			<div class="span-8 client-logos">
 				<div class="owl-carousel clients-slider">
 					<a>
-						<img src="/assets/images/envato/envato-1.png" alt="" />
+						<img src="/img/clients/mni.png" alt="MNI" loading="lazy"/>
+					</a>
+					<a>
+						<img src="/img/clients/tphst.png" alt="TPHST" loading="lazy"/>
+					</a>
+					<a>
+						<img src="/img/clients/pepsi.png" alt="Pepsi" loading="lazy"/>
+					</a>
+					<a>
+						<img src="/img/clients/netcom.png" alt="netcom" loading="lazy"/>
 					</a>
 				</div>
 			</div>
