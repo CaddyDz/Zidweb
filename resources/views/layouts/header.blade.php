@@ -7,10 +7,10 @@
 			<div class="logo" id="logo">
 				<!-- image logo -->
 				<a href="/" class="image-logo" style="display: inline;">
-					Sitando
+					Zidweb
 				</a>
 				<!-- HTML logo -->
-				<a href="/" class="html-logo">Sitando</a>
+				<a href="/" class="html-logo">Zidweb</a>
 			</div>
 			<!-- Main-Nav -->
 			<nav class="main-nav">

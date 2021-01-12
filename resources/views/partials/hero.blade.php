@@ -11,11 +11,11 @@
 	<div class="container">
 		<div class="title-wrapper">
 			<div class="hero-title">
-				<h2>Bienvenue chez Sitando</h2>
+				<h2>Bienvenue chez Zidweb</h2>
 				<h3>réalisation des sites modernes</h3>
 			</div>
 			<div class="meta">
-				<p class="blurb">Commencez votre nouveau projet avec une nouvelle approche. Sitando est vraiment
+				<p class="blurb">Commencez votre nouveau projet avec une nouvelle approche. Zidweb est vraiment
 					à la
 					pointe en termes de conception et de performances; contactez-nous pour laisser à vos
 					visiteurs une

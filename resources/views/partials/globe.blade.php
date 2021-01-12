@@ -3,13 +3,13 @@
 		<div class="welcome-titles">
 			<header class="welcome-content">
 				<div class="section-title">
-					<h2>C'est <b>Sitando</b></h2>
+					<h2>C'est <b>Zidweb</b></h2>
 					<h3>Bienvenue dans la nouvelle expérience</h3>
 				</div>
 			</header>
 			<header class="welcome-content">
 				<div class="section-title">
-					<h2>Sitando Sites <b>Responsive</b></h2>
+					<h2>Zidweb Sites <b>Responsive</b></h2>
 					<h3>Conçu pour tous les navigateurs et appareils</h3>
 				</div>
 				<p class="welcome-browsers max-bp2">

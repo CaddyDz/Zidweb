@@ -26,9 +26,8 @@
 						</div>
 					</header>
 					<p>
-						Centre Commercial Mohamadia<br />
-						(El Mohammadia Mall<br />
-						4e étage, bureau 1163, Alger<br />
+						Akid Lotfi Bir El Djir<br>
+						St 25, PCF6+5P Oran <br>
 					</p>
 				</div>
 			</div>
@@ -46,9 +45,9 @@
 								<i class="fa fa-phone-square"></i>
 								Téléphone:
 							</b>
-							<a href="tel:+213553752641">(213) 553 752 641</a>
+							<a href="tel:+213551081911">(+213) 551 081 911</a>
 						</li>
-						<li><b><i class="fa fa-envelope"></i> Email:</b> <a href="mailto:contact@sitando.com">contact@sitando.com</a></li>
+						<li><b><i class="fa fa-envelope"></i> Email:</b> <a href="mailto:contact@zidweb.com">contact@zidweb.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -61,8 +60,7 @@
 						</div>
 					</header>
 					<ul>
-						<li>Samedi - Jeudi : 09:00 - 17:00</li>
-						<li>Lundi - jeudi: 09:00 - 14:30</li>
+						<li>Lundi - Samedi : 09:00 - 17:00</li>
 						<li>Vacances: fermé</li>
 					</ul>
 				</div>
