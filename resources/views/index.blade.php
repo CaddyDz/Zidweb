@@ -126,61 +126,6 @@
 					<h5><cite>Salim Djerbouh - Fondateur</cite></h5>
 				</blockquote>
 			</div>
-			<div class="testimonial">
-				<div class="profile">
-					<a href="assets/images/hacene.jpeg" class="modal-image">
-						<img src="/assets/images/hacene.jpeg" alt="" />
-					</a>
-				</div>
-				<blockquote>
-				<p>Le premier langage <b>Hacene</b> est <b><span>JavaScript</span></b>. tout est permis!</p>
-					<h5><cite>Hacene Ouserir - Développeur web</cite></h5>
-				</blockquote>
-			</div>
-			<div class="testimonial">
-				<div class="profile">
-					<a href="assets/images/mehdi.jpg" class="modal-image">
-						<img src="/assets/images/mehdi.jpg" alt="" />
-					</a>
-				</div>
-				<blockquote>
-				<p><b>Mehdi</b> maintient essentiellement  <b><span>es affaires financières</span></b>. Que veux-tu mon ami de plus que ça?</p>
-					<h5><cite>Mehdi Mansour - VC</cite></h5>
-				</blockquote>
-			</div>
-			<div class="testimonial">
-				<div class="profile">
-					<a href="assets/images/lukas.jpg" class="modal-image">
-						<img src="/assets/images/lukas.jpg" alt="" />
-					</a>
-				</div>
-				<blockquote>
-				<p>Qui a besoin d'un développeur <b>Android</b>. lorsque vous avez <b><span>Lukas</span></b>!</p>
-					<h5><cite>Lukas Owen - Développeur Android</cite></h5>
-				</blockquote>
-			</div>
-			<div class="testimonial">
-				<div class="profile">
-					<a href="assets/images/oussama.jpg" class="modal-image">
-						<img src="/assets/images/oussama.jpg" alt="" />
-					</a>
-				</div>
-				<blockquote>
-				<p><b>Oussama</b> est vraiment classé <b><span>Marketer</span></b>. Jetez n'importe quoi à ce gars et il vous le rendra comme une publicité!</p>
-				<h5><cite>Oussama Menoukate - Marketer</cite></h5>
-				</blockquote>
-			</div>
-			<div class="testimonial">
-				<div class="profile">
-					<a href="assets/images/widad.jpg" class="modal-image">
-						<img src="/assets/images/widad.jpg" alt="" />
-					</a>
-				</div>
-				<blockquote>
-				<p><b>Widad</b> sait écrire <b><span>Laravel</span></b>. Et elle peut aussi parler aux humains!</p>
-					<h5><cite>Widad Lai - Développeur web</cite></h5>
-				</blockquote>
-			</div>
 		</div>
 		<div class="nav-carousel">
 			<div class="icon-round-border-lrg nav-prev">
