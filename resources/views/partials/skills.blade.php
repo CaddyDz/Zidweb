@@ -29,6 +29,10 @@
 				<div class="progress-bar">
 					<div class="progress" data-progress="96%">96%</div>
 				</div>
+				<h5>Pentesting / Securité / Audit de code</h5>
+				<div class="progress-bar">
+					<div class="progress" data-progress="95%">95%</div>
+				</div>
 			</div>
 		</div>
 	</div>
