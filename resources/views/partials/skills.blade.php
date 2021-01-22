@@ -33,6 +33,10 @@
 				<div class="progress-bar">
 					<div class="progress" data-progress="95%">95%</div>
 				</div>
+				<h5>Automation</h5>
+				<div class="progress-bar">
+					<div class="progress" data-progress="100%">100%</div>
+				</div>
 			</div>
 		</div>
 	</div>
