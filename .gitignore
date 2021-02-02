@@ -1,6 +1,8 @@
 /node_modules
 /public/hot
 /public/storage
+# Package static assets
+/public/vendor
 /storage/*.key
 /vendor
 .env
@@ -10,5 +12,14 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.DS_Store
+_ide_helper.php
+.phpstorm.meta.php
 .php_cs.cache
+# Laravel Nova
+/nova
+nova.zip
+resources/views/vendor/nova
+# Package language files
+resources/lang/vendor
+# Generated Swagger API docs
+storage/api-docs

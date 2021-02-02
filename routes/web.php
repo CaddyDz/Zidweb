@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+use App\Http\Controllers\ContactController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,3 +18,4 @@ declare(strict_types=1);
 Route::view('/', 'index');
 Route::view('/contact', 'contact');
 Route::view('/about', 'about');
+Route::post('contact', [ContactController::class, 'send'])->name('contact');

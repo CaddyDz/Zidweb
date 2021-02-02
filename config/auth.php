@@ -70,13 +70,28 @@ return [
 	'providers' => [
 		'users' => [
 			'driver' => 'eloquent',
-			'model' => App\User::class,
+			'model' => App\Models\User::class,
 		],
 
 		// 'users' => [
-		//     'driver' => 'database',
-		//     'table' => 'users',
+		// 'driver' => 'database',
+		// 'table' => 'users',
 		// ],
+	],
+
+	/*
+	|--------------------------------------------------------------------------
+	| Email Verification
+	|--------------------------------------------------------------------------
+	|
+	| The expire time is the number of minutes that the verification link should
+	| be considered valid. This security feature keeps links short-lived so
+	| they have less time to be guessed. You may change this as needed.
+	|
+	*/
+
+	'verification' => [
+		'expire' => 60,
 	],
 
 	/*
