@@ -31,10 +31,24 @@
 
 	<!-- Modernizr -->
 	<script src="/assets/js/modernizr.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-M43WJKMTSQ"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-M43WJKMTSQ');
+
+	</script>
 </head>
+
 <body class="@yield('body_classes')">
-<div id="site-content">
-</div>
+	<div id="site-content">
+	</div>
 	@include('layouts.header')
 
 	@yield('content')
@@ -112,4 +126,5 @@
 	</script>
 	<script src="/assets/js/google-map.js"></script>
 </body>
+
 </html>
