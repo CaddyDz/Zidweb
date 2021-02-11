@@ -1783,6 +1783,10 @@ form .form-element textarea:focus:valid~label {
 	background: #2DCC70;
 }
 
+form .form-element input:valid~label {
+	display: none;
+}
+
 form .box {
 	width: 100%;
 	border: 1px solid rgba(255, 255, 255, 0);

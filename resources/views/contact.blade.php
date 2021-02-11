@@ -66,6 +66,28 @@
 				</div>
 			</div>
 		</div>
+		<hr class="stripes" />
+		<form class="h5-valid" action="{{ route('contact') }}" method="POST">
+			@csrf
+			<fieldset>
+				<div class="form-element">
+					<input name="name" type="text" class="box" required>
+					<label>Name</label>
+				</div>
+				<div class="form-element">
+					<input name="email" type="email" class="box" required>
+					<label>Email Address</label>
+				</div>
+			</fieldset>
+			<div class="form-element">
+				<input name="subject" type="text" class="box" required>
+				<label>Subject</label>
+			</div>
+			<div class="form-element">
+				<textarea name="message" class="box" placeholder="Enter your message" required></textarea>
+			</div>
+			<button type="submit" class="button large full-width brand-1">Submit Message</button>
+		</form>
 	</div>
 </section>
 <div id="map"></div>
