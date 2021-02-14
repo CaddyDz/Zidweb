@@ -2027,7 +2027,7 @@
                 "illuminate/support": "^7.0|^8.0",
                 "laravel/ui": "^2.0|^3.0",
                 "moontoast/math": "^1.1",
-                "php": "^7.2.5",
+                "php": "^7.2.5|^8.0",
                 "spatie/once": "^1.1 | ^2.0",
                 "symfony/console": "^5.0",
                 "symfony/finder": "^5.0",
