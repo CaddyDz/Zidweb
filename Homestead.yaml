@@ -2,12 +2,12 @@ ip: 192.168.10.10
 memory: 2048
 cpus: 2
 provider: virtualbox
-authorize: ~/.ssh/id_ed25519.pub
+authorize: ~/.ssh/vagrant.pub
 keys:
-    - ~/.ssh/id_ed25519
+    - ~/.ssh/vagrant
 folders:
     -
-        map: /Users/caddy/Sites/Zidweb
+        map: .
         to: /home/vagrant/zidweb
 sites:
     -
