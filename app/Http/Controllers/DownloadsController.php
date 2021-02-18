@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use Illuminate\Support\Facades\Storage;
 
 class DownloadsController extends Controller
 {
@@ -15,6 +16,9 @@ class DownloadsController extends Controller
 	 */
 	public function download(string $filename)
 	{
-		return response()->download($filename);
+		if (Storage::disk('public')->exists($filename)) {
+			return response()->download($filename);
+		}
+		return abort(404);
 	}
 }
