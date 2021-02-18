@@ -75,42 +75,14 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
 	}
 
 	/**
-	 * Get the cards that should be displayed on the default Nova dashboard.
-	 *
-	 * @return array
-	 */
-	protected function cards(): array
-	{
-		return [];
-	}
-
-	/**
-	 * Get the extra dashboards that should be displayed on the Nova dashboard.
-	 *
-	 * @return array
-	 */
-	protected function dashboards(): array
-	{
-		return [];
-	}
-
-	/**
 	 * Get the tools that should be listed in the Nova sidebar.
 	 *
 	 * @return array
 	 */
 	public function tools(): array
 	{
-		return [];
-	}
-
-	/**
-	 * Register any application services.
-	 *
-	 * @return void
-	 */
-	public function register(): void
-	{
-		//
+		return [
+			new \Infinety\Filemanager\FilemanagerTool(),
+		];
 	}
 }

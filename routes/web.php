@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use App\Http\Controllers\ContactController;
+use App\Http\Controllers\{ContactController, DownloadsController};
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +19,6 @@ Route::view('/', 'index');
 Route::view('/contact', 'contact');
 Route::view('/about', 'about');
 Route::post('contact', [ContactController::class, 'send'])->name('contact');
+Route::domain('downloads.' . config('app.domain'))->group(function () {
+	Route::get('{file}', [DownloadsController::class, 'download']);
+});
