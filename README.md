@@ -7,27 +7,29 @@ Web Development Agency
 
 # Installation instructions (vagrant / local dev)
 
-1. Download & install [VirtualBox](https://virtualbox.org/wiki/downloads), [Vagrant](https://vagrantup.com/downloads) and [Composer](https://getcomposer.org)
-2. Generate a public & private key (without passphrase):
+1. Download & install [VirtualBox](https://virtualbox.org/wiki/downloads), [Vagrant](https://vagrantup.com/downloads)
+https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
+2. Git clone this repository
 ```bash
-ssh-keygen -t ed25519 -C "vagrant" -f ~/.ssh/vagrant
+git clone git@github.com:Zidweb/Zidweb.git
 ```
-3. Git clone this repository
+3. Let's boot this beast up and start dev'ing:
 ```bash
-git clone https://github.com/Zidweb/Zidweb
-```
-4. Enter into Zidweb because we need to get Nova (it's a hack, @TODO: create-subrepo)
-```bash
+vagrant up
+vagrant ssh
 cd Zidweb
-git clone https://github.com/Zidweb/nova
 ```
-5. Install dependencies
+4. Install dependencies
 ```bash
 composer install
 ```
-6. Let's boot this beast up and start dev'ing:
+5. Copy the environment variables file
 ```bash
-vagrant up
+cp .env.example .env
+```
+6. Generate encryption key
+```bash
+php artisan key:generate
 ```
 
 * Now just access http://zidweb.local

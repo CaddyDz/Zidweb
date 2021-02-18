@@ -2,9 +2,9 @@ ip: 192.168.10.10
 memory: 2048
 cpus: 2
 provider: virtualbox
-authorize: ~/.ssh/vagrant.pub
+authorize: ~/.ssh/id_ed25519.pub
 keys:
-    - ~/.ssh/vagrant
+    - ~/.ssh/id_ed25519
 folders:
     -
         map: .

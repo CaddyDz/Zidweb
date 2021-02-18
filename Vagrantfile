@@ -4,7 +4,7 @@
 require 'yaml'
 
 VAGRANTFILE_API_VERSION ||= "2"
-confDir = $confDir ||= File.expand_path("vendor/laravel/homestead", File.dirname(__FILE__))
+confDir = $confDir ||= File.expand_path("homestead", File.dirname(__FILE__))
 
 confFile = File.expand_path("Homestead.yaml", File.dirname(__FILE__))
 
