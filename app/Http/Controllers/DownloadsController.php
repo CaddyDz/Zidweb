@@ -16,8 +16,9 @@ class DownloadsController extends Controller
 	 */
 	public function download(string $filename)
 	{
-		if (Storage::disk('public')->exists($filename)) {
-			return response()->download($filename);
+		$disk = Storage::disk('public');
+		if ($disk->exists($filename)) {
+			return $disk->download($filename);
 		}
 		return abort(404);
 	}
