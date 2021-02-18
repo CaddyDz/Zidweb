@@ -18,7 +18,7 @@ _ide_helper.php
 # Laravel Nova
 /nova
 nova.zip
-resources/views/vendor/nova
+!resources/views/vendor/nova/partials/logo.blade.php
 # Package language files
 resources/lang/vendor
 # Generated Swagger API docs
