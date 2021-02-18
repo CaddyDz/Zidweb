@@ -65,12 +65,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"scripts": {
-		"pre-install-cmd": [
-			"rm -rf nova",
-			"rm nova.zip",
-			"wget downloads.zidweb.com/nova.zip",
-			"unzip -qq nova.zip"
-		],
 		"post-autoload-dump": [
 			"Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
 			"@php artisan package:discover --ansi"
