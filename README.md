@@ -8,17 +8,12 @@ Web Development Agency
 # Installation instructions (vagrant / local dev)
 
 1. Download & install [VirtualBox](https://virtualbox.org/wiki/downloads), [Vagrant](https://vagrantup.com/downloads)
-https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 
-2. Git clone this repository
+2. Create an SSH Key, follow [this guide]
+
+3. Git clone this repository
 ```bash
 git clone --recurse-submodules git@github.com:Zidweb/Zidweb.git
-```
-
-3. We need to get Nova too:
-```bash
-cd Zidweb
-git clone git@github.com:Zidweb/nova.git
 ```
 
 4. Boot the VM:

@@ -16,9 +16,6 @@ yarn-error.log
 _ide_helper.php
 .phpstorm.meta.php
 .php_cs.cache
-# Laravel Nova
-/nova
-nova.zip
 !resources/views/vendor/nova/partials/logo.blade.php
 # Package language files
 resources/lang/vendor
