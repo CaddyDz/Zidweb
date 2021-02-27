@@ -9,27 +9,42 @@ Web Development Agency
 
 1. Download & install [VirtualBox](https://virtualbox.org/wiki/downloads), [Vagrant](https://vagrantup.com/downloads)
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
+
 2. Git clone this repository
 ```bash
 git clone --recurse-submodules git@github.com:Zidweb/Zidweb.git
 ```
-3. Let's boot this beast up and start dev'ing:
+
+3. We need to get Nova too:
+```bash
+cd Zidweb
+git clone git@github.com:Zidweb/nova.git
+```
+
+4. Boot the VM:
 ```bash
 vagrant up
+```
+
+5. Log into the VM:
+```bash
 vagrant ssh
 cd Zidweb
 ```
-4. Install dependencies
+
+6. Install dependencies
 ```bash
 composer install
 ```
-5. Copy the environment variables file
+
+7. Copy the environment variables file
 ```bash
 cp .env.example .env
 ```
-6. Generate encryption key
+
+8. Generate encryption key
 ```bash
 php artisan key:generate
 ```
 
-* Now just access http://zidweb.local
+9. Start developing: http://zidweb.local
