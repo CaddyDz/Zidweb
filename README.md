@@ -9,7 +9,7 @@ Web Development Agency
 
 1. Download & install [VirtualBox](https://virtualbox.org/wiki/downloads), [Vagrant](https://vagrantup.com/downloads)
 
-2. Create an SSH Key, follow [this guide]
+2. Create an SSH Key, follow [this guide](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 
 3. Git clone this repository
 ```bash
