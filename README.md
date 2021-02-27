@@ -11,7 +11,7 @@ Web Development Agency
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 2. Git clone this repository
 ```bash
-git clone git@github.com:Zidweb/Zidweb.git
+git clone --recurse-submodules git@github.com:Zidweb/Zidweb.git
 ```
 3. Let's boot this beast up and start dev'ing:
 ```bash
