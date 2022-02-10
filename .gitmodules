@@ -1,6 +1,3 @@
 [submodule "homestead"]
 	path = homestead
 	url = https://github.com/laravel/homestead
-[submodule "nova"]
-	path = nova
-	url = git@github.com:Zidweb/nova
