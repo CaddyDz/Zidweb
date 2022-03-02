@@ -10,18 +10,13 @@ on:
 
 jobs:
   phpstan:
-    strategy:
-      fail-fast: true
-      matrix:
-        php-version: ['8.0']
-
     runs-on: ubuntu-latest
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
 
     steps:
     - uses: shivammathur/setup-php@v2
       with:
-        php-version: ${{ matrix.php-versions }}
+        php-version: 8.0
     - uses: actions/checkout@v2
     - name: Copy .env
       run: php -r "file_exists('.env') || copy('.env.example', '.env');"
