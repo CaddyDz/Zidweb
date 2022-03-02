@@ -4,7 +4,6 @@ git pull origin master
 php artisan optimize
 composer install --optimize-autoloader --no-dev
 php artisan migrate
-php artisan l5-swagger:generate
 npm install
 npm run prod
 
