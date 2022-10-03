@@ -12,7 +12,7 @@
 		"php": "^8.0",
 		"algolia/algoliasearch-client-php": "^2.7",
 		"fideloper/proxy": "^4.4",
-		"fruitcake/laravel-cors": "^2.0",
+		"fruitcake/laravel-cors": "^3.0",
 		"guzzlehttp/guzzle": "^7.0.1",
 		"infinety-es/nova-filemanager": "^2.8",
 		"itsgoingd/clockwork": "^5.0",
