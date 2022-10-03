@@ -23,7 +23,7 @@
 		"laravel/scout": "^8.5",
 		"laravel/tinker": "^2.6",
 		"sentry/sentry-laravel": "^2.3",
-		"titasgailius/search-relations": "^1.0"
+		"titasgailius/search-relations": "^2.0"
 	},
 	"require-dev": {
 		"barryvdh/laravel-debugbar": "^3.5",
